@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, TypeScript, React, Next**
 
-- 📫 How to reach me **saadseif@gmail.com**
+- 📫 How to reach me **saadseif304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
