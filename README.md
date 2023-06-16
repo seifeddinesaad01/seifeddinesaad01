@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Seif Eddine Saad</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="left">A passionate frontend developer from Tunisia</h3>
 
 
 
