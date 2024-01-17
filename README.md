@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Next 13**
+- 🌱 I’m currently learning **Next 14**
 
 - 💬 Ask me about **HTML, CSS, Javascript, TypeScript, React, Next**
 
