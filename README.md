@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Seif Eddine Saad</h1>
 <h3 align="left">A passionate Front-end developer from Tunisia</h3>
 
-- 🔭 I’m currently working on [Golobe](https://github.com/seifeddinesaad01/Golobe-Travel-agency-website)
 
 - 👨‍💻 All of my projects are available at [https://seifeddinesaad.vercel.app/home](https://seifeddinesaad.vercel.app/home)
 
