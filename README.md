@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Front-end developer from Tunisia</h3>
  
 
-- 👨‍💻 All of my projects are available at [https://seifeddinesaad.vercel.app](https://seifeddinesaad.vercel.app/home)
+- 👨‍💻 All of my projects are available at [https://seifeddinesaad.vercel.app](https://seifdev.netlify.app/)
 
 - 💬 Ask me about **React, Next and Tailwind**
 
