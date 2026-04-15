@@ -45,9 +45,13 @@ const seif = {
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,redux&perline=9)](https://skillicons.dev)
 
-**Backend & Tools**
+**Backend & Runtime**
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,linux,webpack,figma,jest,python,c&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,python,firebase&perline=9)](https://skillicons.dev)
+
+**Tools & Others**
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux,webpack,figma,jest,c&perline=9)](https://skillicons.dev)
 
 </div>
 
@@ -57,7 +61,7 @@ const seif = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifeddinesaad01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifeddinesaad01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifeddinesaad01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
 
