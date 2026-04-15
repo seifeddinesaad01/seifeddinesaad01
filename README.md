@@ -12,8 +12,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/saif71564790)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seif-eddine-saad-3728aa19b)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/saif71564790)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5757.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://seifdev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-saadseif304%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadseif304@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=seifeddinesaad01&style=for-the-badge&color=blueviolet)](https://github.com/seifeddinesaad01)
